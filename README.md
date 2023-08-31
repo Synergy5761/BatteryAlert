@@ -1,7 +1,7 @@
 # Battery Alert Microsoft VBScript
 Script from this website: https://www.thewindowsclub.com/create-laptop-battery-full-charge-notification
 
-The .vbs file would be placed at the following file directory:
+The .vbs file would be placed at the following file directory to have the script at startup:
 ```
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
 ```
