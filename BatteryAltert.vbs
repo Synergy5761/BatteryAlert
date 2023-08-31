@@ -12,6 +12,6 @@ while (1)
     bCharging = oResult.Charging
   next
   iPercent = ((iRemaining / iFull) * 100) mod 100
-  if bCharging and (iPercent > 80) Then msgbox "Battery is at " & iPercent & "%",vbInformation, "Battery monitor"
+  if bCharging and (iPercent > 79) Then msgbox "Battery is at " & iPercent & "%",vbInformation, "Battery monitor"
   wscript.sleep 30000 ' 5 minutes
 wend
