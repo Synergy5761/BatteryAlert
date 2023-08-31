@@ -1,1 +1,1 @@
-# Battery Alert Microsoft VBS Script
+# Battery Alert Microsoft VBScript
