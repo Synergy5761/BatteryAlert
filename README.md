@@ -1,7 +1,9 @@
 # Battery Alert Microsoft VBScript
 Orginal script from this website: https://www.thewindowsclub.com/create-laptop-battery-full-charge-notification
 
-Edited for an Asus Laptop with the battery limit set to 80%. Specific alert at 79%.
+Battery limit is set through [G-Helper](https://github.com/seerge/g-helper).
+
+Edited for an Asus Laptop with the battery limit set to 60, 70, 80%. Specific alert at 59, 69, 79%.
 
 The .vbs file would be placed in the following location for the script to start with each boot:
 ```
